@@ -1,5 +1,5 @@
 # python3
-
+import re
 def parallel_processing(n, m, data):
     output = []
     threads = []
